@@ -1,15 +1,8 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "56074",
-    "name": "kartik",
-    "password": "",
+    "ip": "sinhtonccreEv.aternos.me",
+    "port": "47958",
+    "name": "afkbot2",
     "auto-night-skip": "false",
-    "prefix": "",
-    "login-enabled": "false",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "done",
     "auto-reconnect": "true",
-    "web": "true"
     
 }
